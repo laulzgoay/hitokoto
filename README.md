@@ -9,7 +9,7 @@
 原作者地址:[https://xiaolin.in/read/hitokoto-api-xiaolin-edition.html](https://xiaolin.in/read/hitokoto-api-xiaolin-edition.html)  
 开发:二次开发,已取得原作者二次开发及开源授权  
 开源协议:[GPL v3](https://opensource.org/licenses/GPL-3.0)  
-GitHub项目地址:[https://github.com/kfangf/hitokoto](https://github.com/laulzgoay/hitokoto)  
+GitHub项目地址:[https://github.com/laulzgoay/hitokoto](https://github.com/laulzgoay/hitokoto)  
 码云项目地址:不存在的
 版权归作者及原作者所有，任何人不得未经授权修改版权，二次开发请遵守开源协议  
 版权所有，侵权必究  
