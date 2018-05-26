@@ -11,6 +11,7 @@
 开源协议:[GPL v3](https://opensource.org/licenses/GPL-3.0)  
 GitHub项目地址:[https://github.com/laulzgoay/hitokoto](https://github.com/laulzgoay/hitokoto)  
 码云项目地址:不存在的
+
 版权归作者及原作者所有，任何人不得未经授权修改版权，二次开发请遵守开源协议  
 版权所有，侵权必究  
 # 更新  
@@ -19,7 +20,7 @@ GitHub项目地址:[https://github.com/laulzgoay/hitokoto](https://github.com/la
 # 请求示例
 请求地址:[https://api.xjdog.cn/hitokoto/](https://api.xjdog.cn/hitokoto/)  
 请求方式:GET  
-请求参数:Null  
+请求参数:Node
 返回内容:谁看见过风？我和你，都不曾看见过。  
 # 开发文档  
 见作者博客:[https://www.xjdog.cn/138.html](https://www.xjdog.cn/138.html)  
