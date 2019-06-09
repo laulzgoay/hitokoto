@@ -17,6 +17,9 @@ GitHub项目地址:[https://github.com/laulzgoay/hitokoto](https://github.com/la
 # 更新  
 2017/12/26 00:12:增加3条一言
 2017/12/25 13:00：头部修改，版本号不变  
+# 使用方法
+<p id="laulzgoay_hitokoto"></p>
+<script type="text/javascript" src="https://api.xjdog.cn/hitokoto/?code=js&id=test"></script>
 # 请求示例
 请求地址:[https://api.xjdog.cn/hitokoto/](https://api.xjdog.cn/hitokoto/)  
 请求方式:GET  
