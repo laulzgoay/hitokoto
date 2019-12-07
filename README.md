@@ -1,9 +1,9 @@
 # 一言纯净API
 版本:1.0  
 最后更新时间:2017/12/26 00:12
-作者:[小俊](https://www.xjdog.cn)  
-作者博客:[https://wwww.xjdog.cn](https://www.xjdog.cn)  
-作者地址:[https://www.xjdog.cn/138.shtml](https://www.xjdog.cn/138.shtml)  
+作者:[小俊](https://www.xjisme.com)  
+作者博客:[https://www.xjisme.com](https://www.xjisme.com)  
+作者地址:[https://www.xjisme.com/138.shtml](https://www.xjisme.com/138.shtml)  
 原作者:[小霖](https://xiaolin.in/)  
 原作者博客:[https://xiaolin.in/](https://xiaolin.in/)  
 原作者地址:[https://xiaolin.in/read/hitokoto-api-xiaolin-edition.html](https://xiaolin.in/read/hitokoto-api-xiaolin-edition.html)  
@@ -19,14 +19,14 @@ GitHub项目地址:[https://github.com/laulzgoay/hitokoto](https://github.com/la
 2017/12/25 13:00：头部修改，版本号不变  
 # 使用方法
 <p id="laulzgoay_hitokoto"></p>
-<script type="text/javascript" src="https://api.xjdog.cn/hitokoto/?code=js&id=test"></script>
+<script type="text/javascript" src="https://api.xjisme.com/hitokoto/?code=js&id=test"></script>
 
 # 请求示例
-请求地址:[https://api.xjdog.cn/hitokoto/](https://api.xjdog.cn/hitokoto/)  
+请求地址:[https://api.xjisme.com/hitokoto/](https://api.xjisme.com/hitokoto/)  
 请求方式:GET  
 请求参数:Null
 返回内容:谁看见过风？我和你，都不曾看见过。  
 # 开发文档  
-见作者博客:[https://www.xjdog.cn/138.html](https://www.xjdog.cn/138.html)  
+见作者博客:[https://www.xjisme.com/138.html](https://www.xjisme.com/138.html)  
 # 注意事项
 GBK版本没有JSON和XML格式  
